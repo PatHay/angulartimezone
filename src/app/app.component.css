@@ -1,0 +1,13 @@
+#container{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 50px;
+    outline: 1px solid black;
+    margin: 10px;
+}
+
+.clicked{
+    background-color: yellow;
+}
